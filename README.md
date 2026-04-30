@@ -1,7 +1,7 @@
 # Dumb printf implementation
 
 ## About
-Just because I was borring.
+Just because I was borred.
 
 ## How to compile
 
@@ -13,10 +13,5 @@ gcc write.o printf.c
 
 ## Usability
 
-It only support %d, %c and %s xd. (It is easy to expand thought)
+It only supports %d, %c and %s. (It's easy to expand tho)
 
-## Note
-
-Those who dont understand why I reverse the number to print it
-to the screen is just to avoid creating a buffer and fill it
-from right to left. This way I can print the digits directly.
